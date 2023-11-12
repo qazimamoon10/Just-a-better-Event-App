@@ -1,1 +1,1 @@
-# Just-a-better-Event-App
+# Just-a-better-event-app
